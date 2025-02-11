@@ -1,0 +1,67 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "6AHakwrHTmU",
+  "title": "Lead Generation",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Lead Generation"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6KuiwPKSfDT",
+      "title": "Welcome",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5nPkhypbIQb",
+      "title": "Virtual Vacations",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6XeF8TUmiB9",
+      "title": "A word from the VP of Sales",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5ggwUPPZknk",
+      "title": "Lead Generation Video",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "63EMwUAK4uo",
+      "title": "Knowledge Check",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "5lWJ9TK0fHQ",
+      "title": "Question 1",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5ZOMAXCJHUt",
+      "title": "Question 2",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "6G29rm3DuhF",
+      "title": "Question 3",
+      "scene_index": "1.8"
+    },
+    {
+      "id": "6fA5xSJGcv4",
+      "title": "Untitled Slide",
+      "scene_index": "1.9"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 1220,
+    "height": 658
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}
